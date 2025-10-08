@@ -6,25 +6,6 @@ This project performs Exploratory Data Analysis (EDA) on New York Airbnb data to
 
 This project explores Airbnb data through extensive **Exploratory Data Analysis (EDA)** to uncover patterns, trends, and insights related to pricing, availability, locations, and more. The analysis is performed using popular Python libraries such as **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**, and **Plotly**.
 
----
-
-📌 Table of Contents
-
-- [Project Overview](#-project-overview)
-- [Dataset](#-dataset)
-- [Objectives](#-objectives)
-- [Tech Stack](#-tech-stack)
-- [Project Structure](#-project-structure)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [Key Insights](#-key-insights)
-- [Visualizations](#-visualizations)
-- [Future Work](#-future-work)
-- [Contributing](#-contributing)
-- [License](#-license)
-
----
-
 🌟 Project Overview
 
 Airbnb has transformed the hospitality industry by providing a platform for short-term lodging. This project dives into Airbnb listings data to analyze:
