@@ -1,6 +1,6 @@
 AirBnb-EDA-using-python
 This project performs Exploratory Data Analysis (EDA) on New York Airbnb data to uncover trends and patterns in rental listings. We use libraries like Pandas, Numpy, Matplotlib, Seaborn for cleaning, visualization, and analysis.
-
+![image alt](https://github.com/ReyCR7/AirBnb-EDA-using-python/blob/9924e77785d81128720a9220ca7426bc3a2a7173/Screenshot%202025-10-08%20215609.png)
 
 ```markdown
 🏡 Airbnb Exploratory Data Analysis (EDA) using Python
