@@ -1,14 +1,14 @@
-# AirBnb-EDA-using-python
+AirBnb-EDA-using-python
 This project performs Exploratory Data Analysis (EDA) on New York Airbnb data to uncover trends and patterns in rental listings. We use libraries like Pandas, Numpy, Matplotlib, Seaborn for cleaning, visualization, and analysis.
 
 ```markdown
-# 🏡 Airbnb Exploratory Data Analysis (EDA) using Python
+🏡 Airbnb Exploratory Data Analysis (EDA) using Python
 
 This project explores Airbnb data through extensive **Exploratory Data Analysis (EDA)** to uncover patterns, trends, and insights related to pricing, availability, locations, and more. The analysis is performed using popular Python libraries such as **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**, and **Plotly**.
 
 ---
 
-## 📌 Table of Contents
+📌 Table of Contents
 
 - [Project Overview](#-project-overview)
 - [Dataset](#-dataset)
@@ -25,7 +25,7 @@ This project explores Airbnb data through extensive **Exploratory Data Analysis 
 
 ---
 
-## 🌟 Project Overview
+🌟 Project Overview
 
 Airbnb has transformed the hospitality industry by providing a platform for short-term lodging. This project dives into Airbnb listings data to analyze:
 
@@ -39,7 +39,7 @@ This EDA helps **hosts**, **guests**, and **data analysts** gain valuable insigh
 
 ---
 
-## 🧾 Dataset
+🧾 Dataset
 
 The dataset used for this project is:
 
@@ -53,7 +53,7 @@ The dataset used for this project is:
 
 ---
 
-## 🎯 Objectives
+🎯 Objectives
 
 - Clean and preprocess the raw Airbnb data
 - Perform univariate and bivariate analysis
@@ -63,7 +63,7 @@ The dataset used for this project is:
 
 ---
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
 - **Python** 🐍  
 - **Jupyter Notebook / VS Code**  
@@ -77,7 +77,7 @@ The dataset used for this project is:
 
 ---
 
-## 📁 Project Structure
+#📁 Project Structure
 
 ```
 
@@ -101,7 +101,7 @@ Airbnb-EDA/
 
 ---
 
-## 💻 Installation
+💻 Installation
 
 1. **Clone this repository**
 
@@ -126,7 +126,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🚀 Usage
+🚀 Usage
 
 Open the Jupyter Notebook and run all cells step by step:
 
@@ -138,7 +138,7 @@ Or view the rendered notebook directly on GitHub.
 
 ---
 
-## 📊 Key Insights
+📊 Key Insights
 
 Some interesting findings from the analysis:
 
@@ -149,7 +149,7 @@ Some interesting findings from the analysis:
 
 ---
 
-## 🖼️ Visualizations
+🖼️ Visualizations
 
 Some of the visualizations included:
 
@@ -161,7 +161,7 @@ Some of the visualizations included:
 
 ---
 
-## 🤝 Contributing
+🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 Feel free to fork this repo and submit a pull request.
