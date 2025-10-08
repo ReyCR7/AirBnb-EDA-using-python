@@ -1,6 +1,7 @@
 AirBnb-EDA-using-python
 This project performs Exploratory Data Analysis (EDA) on New York Airbnb data to uncover trends and patterns in rental listings. We use libraries like Pandas, Numpy, Matplotlib, Seaborn for cleaning, visualization, and analysis.
 
+
 ```markdown
 🏡 Airbnb Exploratory Data Analysis (EDA) using Python
 
@@ -16,20 +17,18 @@ Airbnb has transformed the hospitality industry by providing a platform for shor
 - Correlations between variables
 - Host behaviors and performance
 
-This EDA helps **hosts**, **guests**, and **data analysts** gain valuable insights into Airbnb market trends.
-
----
+This EDA helps hosts, guests, and data analysts gain valuable insights into Airbnb market trends.
 
 🧾 Dataset
 
 The dataset used for this project is:
 
-- **Name:** Airbnb Listings Dataset  
-- **Source:** [Inside Airbnb](http://insideairbnb.com/get-the-data.html) *(or mention your custom source)*  
-- **File Format:** CSV  
-- **Size:** ~xx MB (after cleaning)
+- Name: Airbnb Listings Dataset  
+- Source: Provided in Repo  
+- File Format: CSV  
+- Size: 1.1 MB (after cleaning)
 
-**Key Columns:**  
+Key Columns:
 - `id`, `name`, `host_id`, `neighbourhood`, `room_type`, `price`, `minimum_nights`, `availability_365`, `number_of_reviews`, etc.
 
 ---
@@ -46,9 +45,9 @@ The dataset used for this project is:
 
 🛠️ Tech Stack
 
-- **Python** 🐍  
-- **Jupyter Notebook / VS Code**  
-- **Libraries:**
+- Python*🐍  
+- Jupyter Notebook / VS Code  
+- Libraries:
   - `pandas`
   - `numpy`
   - `matplotlib`
@@ -58,40 +57,15 @@ The dataset used for this project is:
 
 ---
 
-#📁 Project Structure
-
-```
-
-Airbnb-EDA/
-│
-├── data/
-│   ├── airbnb_listings.csv
-│   └── cleaned_data.csv
-│
-├── notebooks/
-│   └── airbnb_eda.ipynb
-│
-├── images/
-│   └── plots_and_graphs.png
-│
-├── README.md
-├── requirements.txt
-└── .gitignore
-
-````
-
----
-
 💻 Installation
 
-1. **Clone this repository**
-
-```bash
+1. Clone this repository
+bash
 git clone https://github.com/yourusername/Airbnb-EDA.git
 cd Airbnb-EDA
 ````
 
-2. **Create a virtual environment (optional)**
+2. Create a virtual environment
 
 ```bash
 python -m venv venv
@@ -99,7 +73,7 @@ source venv/bin/activate      # For Mac/Linux
 venv\Scripts\activate         # For Windows
 ```
 
-3. **Install required libraries**
+3. Install required libraries
 
 ```bash
 pip install -r requirements.txt
@@ -123,7 +97,7 @@ Or view the rendered notebook directly on GitHub.
 
 Some interesting findings from the analysis:
 
-* 💰 **Entire homes/apartments** have the highest average prices.
+* 💰 Entire homes/apartments have the highest average prices.
 * 🏙️ Certain neighborhoods have significantly higher occupancy rates.
 * 🧼 After cleaning, we reduced missing values by X%.
 * 🗓️ Seasonal trends impact availability and pricing patterns.
